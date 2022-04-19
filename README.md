@@ -1,5 +1,5 @@
 # prefix_twitter_followers
-- get list of Twitter followers (any account) and prefix
+- get list of Twitter followers (any account) and prefix them with @-symbols for quick copy+paste
 
 ## reason
 Wanted simple (potentially reusable) way to copy+paste list of all follower names to tweets/thread as in [100 Follower Tweet](https://twitter.com/CoderMatching/status/1516423584641597450?s=20&t=JRYUY43xxrgHsv11YOE52g)
